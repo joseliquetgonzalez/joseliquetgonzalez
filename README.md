@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **recurrent neural networks (RNNs), and transformer models**
 
-- 👯 I’m looking to collaborate on **trash outcome predictor**
+- 👯 I’m looking to collaborate on **a model to predict trash outcomes**
 
 - 📫 How to reach me **liquetjose@gmail.com**
 

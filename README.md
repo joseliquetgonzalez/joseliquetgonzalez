@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Liquet</h1>
-<h3 align="center">A passionate Data Scientist from Puerto Rico, based in San Francisco, CA</h3>
+<h3 align="center">A passionate Data Scientist from Puerto Rico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseliquetgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="joseliquetgonzalez" /> </p>
-
-- 🔭 I’m currently working on **a hyper-personalized music recommender system**
-
-- 🌱 I’m currently learning **recurrent neural networks (RNNs), and transformer models**
-
-- 👯 I’m looking to collaborate on **a model to predict trash outcomes**
-
-- 📫 How to reach me **liquetjose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

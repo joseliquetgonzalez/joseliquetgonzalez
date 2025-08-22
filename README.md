@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jose Liquet</h1>
+<h1 align="center">Hola, I'm Jose Liquet</h1>
 <h3 align="center">A passionate Data Scientist and Data Engineer from Puerto Rico</h3>
 <h4 align="center">
   Most of my work happens at 
   <a href="https://xtillion.com" target="_blank">Xtillion</a>
 </h4>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseliquetgonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="joseliquetgonzalez" /> </p>
